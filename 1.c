@@ -1,1 +1,5 @@
-fa feng fa feng
+#include<stdio.h>
+int main()
+{
+  print("");
+}
